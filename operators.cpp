@@ -54,6 +54,6 @@ int main()
 	int first = 14;
 	int second = 48;
 	int operation = (first > second) ? first : second;
-	cout << "Result: "<<operation;	
+	cout << "Result: "<<operation;
 }
 
